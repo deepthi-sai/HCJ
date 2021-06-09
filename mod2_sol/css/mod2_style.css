@@ -27,7 +27,7 @@ h1{
 	float: right;
 	top : 0px;
 	left : 0px;
-	border : 3px solid black;
+	border : 1px solid black;
 	height : 30px;
 	width: 100px;
 	background-color: pink;
@@ -41,7 +41,7 @@ h1{
   float: right;
   top : 0px;
   left : 0px;
-  border : 3px solid black;
+  border : 1px solid black;
   height : 30px;
   width: 100px;
   background-color: red;
@@ -56,7 +56,7 @@ h1{
   float: right;
   top : 0px;
   left : 0px;
-  border : 3px solid black;
+  border : 1px solid black;
   height : 30px;
   width: 100px;
   background-color: yellow;
